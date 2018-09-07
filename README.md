@@ -12,7 +12,7 @@ You can run the app with:
 
     ./gradlew npm_start
 
-Once it is running, you can access it in a browser at [http://localhost:8080](http://localhost:8080)
+Once it is running, you can access it in a browser at [http://localhost:3000](http://localhost:3000)
 kavitha is editing it
 adding another line for a new buld execution
 wfffanother line
